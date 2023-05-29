@@ -24,7 +24,7 @@ class BST {
   void delTree(Node*);
   Node* delNode(Node*, T);
   Node* copyNode(Node*, Node*);
- 
+
  public:
   BST();
   ~BST();
